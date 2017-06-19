@@ -4,7 +4,7 @@ library(tidyverse)
 library(lubridate)
 library(nycflights13)
 
-# R doesn't have a native time class - use can use the hms package for one
+# R doesn't have a native time class - can use the hms package for one
 
 # Current time:
 today() # today's date
